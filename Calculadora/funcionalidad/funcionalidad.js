@@ -65,4 +65,5 @@ function oscuro(){
 	document.querySelector('.fa-sun').classList.remove('Activado');
 	document.querySelector('body').classList.add('Claro');
 	document.querySelector('body').classList.remove('Oscuro');
+	
 }
